@@ -39,5 +39,7 @@ class Program
         var leader = new Leader();
         Console.WriteLine(leader.ToString());
 
+        Console.WriteLine("Sho bror");
+
     }
 }
